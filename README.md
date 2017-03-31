@@ -1,9 +1,9 @@
-# lab-dw-2017-1
-Laboratório de Desenvolvimento de Software para a Web de 2017/1.
+# mini-biografia-dw-2017-1
+Mini Biografia de Desenvolvimento de Software para a Web de 2017/1.
 
 ## Obtendo o projeto
 
-`git clone https://github.com/walison-moreira-ufg/lab-dw-2017-1`
+`git clone https://github.com/lucasviniciosfs/mini-biografia-dw-2017-1`
 
 ## Executando a aplicação
 
@@ -11,7 +11,7 @@ Laboratório de Desenvolvimento de Software para a Web de 2017/1.
 
 ## Acessando a aplicação
 
-Acesse `http://localhost:9090/lab-dw-2017-1` em qualquer navegador.
+Acesse `http://localhost:9090/mini-biografia-dw-2017-1` em qualquer navegador.
 
 ## Como o projeto foi construído
 
